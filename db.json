@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Cuci mobil...",
+      "day": "Apr 3th at 12:00am",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Hubungi bank...",
+      "day": "Jun 3th at 12:00am",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Bayar listrik, air, internet...",
+      "day": "Mar 13th at 15:00am",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Menjemput mama...",
+      "day": "Apr 3th at 12:00am",
+      "reminder": false
+    },
+    {
+      "id": "5",
+      "text": "Mengambil barang...",
+      "day": "Aug 3th at 12:00am",
+      "reminder": true
+    }
+  ]
+}
